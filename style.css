@@ -24,4 +24,9 @@ svg {
 
 img {
   width: 100%;
+}
+
+a {
+  cursor: pointer;
+  text-decoration: none;
 }/*# sourceMappingURL=style.css.map */

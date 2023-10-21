@@ -6,6 +6,7 @@
 }
 
 @import "partials/colors";
+@import "partials/header";
 
 body {
     font-family: 'Sora', sans-serif;
@@ -27,4 +28,9 @@ svg {
 
 img {
     width: 100%;
+}
+
+a {
+    cursor: pointer;
+    text-decoration: none;
 }
